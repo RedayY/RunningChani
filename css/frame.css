@@ -1,0 +1,100 @@
+/*
+Reday Ahmad Yahya | Project Website Build 
+Student ID: M00531154
+Game built with p5.js
+for questions: ry106@live.mdx.ac.uk
+CSS WEBSITE FRAME
+*/
+
+header{ 
+    font: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: center;
+    background-image: images/banner.png;    
+}
+
+/*  Start of Web DIV Frame */
+
+body{
+background-color: smokewhite;
+background-attachment : fixed;
+background-size : 100% auto;
+}
+.blended_grid{
+display : block;
+width : 1000px;
+margin : 50px auto 0 auto;
+}
+.pageHeader{
+background-color : yellow;
+float : left;
+clear : none;
+height : 200px;
+width : 1000px;
+}
+
+.pageContent{
+background-color : smokewhite;
+float : left;
+clear : none;
+height : 600px;
+width : 1000px;
+}
+.pageFooter{
+background-color : smokewhite;
+float : left;
+clear : none;
+height : 116px;
+width : 1000px;
+}
+
+.per{
+    font-family: chanifont;
+    font-size: 18px;
+    color: darkred;
+}
+
+@font-face{
+    font-family: chanifont;
+    src: url(chanifont.ttf);
+}
+
+h1{
+    font-family: chanifont;
+    text-align: center;
+    color: firebrick;
+}
+
+.magentaaa{
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    vertical-align: middle;
+
+	
+}
+
+.login{
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    vertical-align: middle;
+	float: left;
+}
+
+.register{
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    vertical-align: middle;
+	float: left;
+}
+
+.middleline{
+	color: red;
+}
+
+.makeitfloat{
+    float: left;
+}
+
+/* END of Web Frame */
