@@ -29,6 +29,3 @@ Create Base States and set Game Rules;
 Create Game States and Level States;
 Create Player Functionality;
 Test Game;
-
-
-# MD made with Dillinger
